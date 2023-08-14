@@ -9,7 +9,7 @@ This repository contains the source code and instructions for training and evalu
 - [Acknowledgments](#acknowledgments)
 
 ## Project Description
-This project aims to build and evaluate neural machine translation models for translating natural language queries into SPARQL queries. It leverages various techniques, including training with FastText, using GloVe embeddings, and incorporating Knowledge Graph Vectors. Different models are trained and compared for their performance in NL to SPARQL translation.
+This project aims to build and evaluate neural machine translation models for translating natural language queries into SPARQL queries. It leverages various techniques, including training with fastText, using GloVe embeddings, and incorporating Knowledge Graph Vectors. Different models are trained and compared for their performance in NL to SPARQL translation.
 
 ## Data Files
 ### DBpedia Dataset
