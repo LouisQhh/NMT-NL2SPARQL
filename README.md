@@ -57,7 +57,7 @@ Step 2: Run the code in transform_data_of_dbpedia.ipynb to preprocess the data i
 
 Step 3: Run the code in transform_data_of_dbpedia.ipynb to integrate the tans_ labels.ttl, trans_objects.ttl, trans_types.ttl files into the file format all.ttl used to run the fastText model.
 
-### Training FastText Model
+### Training fastText Model
 Step 1: Since this training process requires high CPU and running memory, the most convenient way is to use the TPU provided in Google colab for training.
 
 Step 2: Run the code of dbpedia_embedding.ipynb to configure the environment.
