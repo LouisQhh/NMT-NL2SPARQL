@@ -101,7 +101,7 @@ Step 1: Translate test.en from all the corpora using the trained model files to 
 Step 2: Execute compute-accuracy.py, compute-bleu.py, compute-rouge-l.py on trans_test.sparql and the translated test.sparql file to get the accuracy, BLEU, and Rouge-L scores of the model test.
 
 ## Acknowledgments
-This project and REPORT would not have been possible without the help of my mentor (Dr. Albert Meroño-Peñuela) and those great open source projects. I send my sincere thanks to all those who have dedicated themselves to this topic and hope that we will be able to show its value to the world in the near future.
+This project and report would not have been possible without the help of my supervisor (Dr. Albert Meroño-Peñuela) and those great open source projects. I send my sincere thanks to all those who have dedicated themselves to this topic and hope that we will be able to show its value to the world in the near future.
 
 -[OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
 
